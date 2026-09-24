@@ -1,0 +1,14 @@
+Date,Ref,Description,Amount
+2026-08-02,INV1001,Receipt from ABC Pte Ltd (PayNow),5350.00
+2026-08-03,FAST2001,Payment to Office Supplies Co (FAST),-820.50
+2026-08-05,INV1002,Receipt from Lim Trading (FAST),12000.00
+2026-08-08,GIRO2002,Rent August (GIRO),-6500.00
+2026-08-10,PAY0801,Salary transfer (GIRO),-18400.00
+2026-08-12,INV1003,Receipt from Tan Holdings (PayNow),3275.40
+2026-08-15,FAST2003,Payment to IT Services (FAST),-1450.00
+2026-08-18,INV1004,Receipt from Green Foods (FAST),7800.00
+2026-08-20,FAST2004,Payment to Cleaning Co (FAST),-604.00
+2026-08-22,GIRO0822,Utilities SP Group (GIRO),-1210.35
+2026-08-29,GIRO2005,Payment to Marketing Agency (GIRO),-2300.00
+2026-08-31,INV1005,Receipt from Sunrise Ltd (GIRO),4500.00
+2026-08-31,FAST2006,Payment to Courier (FAST),-185.00
